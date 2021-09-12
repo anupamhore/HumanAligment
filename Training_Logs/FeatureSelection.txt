@@ -1,0 +1,20 @@
+2021-09-12/16:25:52		findVIF_Factor method Started!!!!
+2021-09-12/16:25:52		findVIF_Factor method Completed!!!!
+2021-09-12/16:25:52		findConstantFeatures Started!!!
+2021-09-12/16:25:52		findConstantFeatures Completed!!!
+2021-09-12/16:25:52		findbestFeatures Started!!!
+2021-09-12/16:25:54		findbestFeatures Completed!!!
+2021-09-12/16:25:54		findFinalFeatures Started!!!
+2021-09-12/16:25:54		findFinalFeatures Completed!!!
+2021-09-12/16:25:54		updateDataSet Started!!!
+2021-09-12/16:25:54		updateDataSet Completed!!!
+2021-09-12/17:43:06		findVIF_Factor method Started!!!!
+2021-09-12/17:43:06		findVIF_Factor method Completed!!!!
+2021-09-12/17:43:06		findConstantFeatures Started!!!
+2021-09-12/17:43:06		findConstantFeatures Completed!!!
+2021-09-12/17:43:06		findbestFeatures Started!!!
+2021-09-12/17:43:09		findbestFeatures Completed!!!
+2021-09-12/17:43:09		findFinalFeatures Started!!!
+2021-09-12/17:43:09		findFinalFeatures Completed!!!
+2021-09-12/17:43:09		updateDataSet Started!!!
+2021-09-12/17:43:09		updateDataSet Completed!!!

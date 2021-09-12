@@ -1,0 +1,76 @@
+2021-09-12/16:25:52		Start of Training!!!
+2021-09-12/16:25:52		map_target_variable method Started!!!
+2021-09-12/16:25:52		map_target_variable method Completed!!!
+2021-09-12/16:25:52		Mapped Variable: 4    7200
+6    7200
+7    7200
+5    7199
+3    7198
+1    3360
+2    2880
+Name: Label, dtype: int64
+2021-09-12/16:25:52		separate_label_features method Started
+2021-09-12/16:25:52		separate_label_features method Completed
+2021-09-12/16:25:52		imputeZeros method Started!!!
+2021-09-12/16:25:52		imputeZeros method Completed!!!
+2021-09-12/16:25:52		Missing Value Search Started
+2021-09-12/16:25:52		Missing Values Search Completed
+2021-09-12/16:25:52		dropVariables Started!!!
+2021-09-12/16:25:52		dropVariables Completed!!!
+2021-09-12/16:25:52		outlier_treatment Started!!!
+2021-09-12/16:25:52		outlier_treatment Completed!!!
+2021-09-12/16:25:52		separate_cat_num Started!!!
+2021-09-12/16:25:52		X columns: Index(['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23',
+       'var_rss23'],
+      dtype='object')
+2021-09-12/16:25:52		separate_cat_num Completed!!!
+2021-09-12/16:25:52		Categorical Variables: []
+2021-09-12/16:25:52		Numerical Variables: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23', 'var_rss23']
+2021-09-12/16:25:52		checkforMultiCollinearity Started!!!
+2021-09-12/16:25:52		checkforMultiCollinearity Completed!!!
+2021-09-12/16:25:52		High Multi-Collinear Variables: []
+2021-09-12/16:25:52		Low VIF Variables: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23', 'var_rss23']
+2021-09-12/16:25:54		Best Features: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23']
+2021-09-12/16:25:54		Final Features before transformation: ['avg_rss12', 'avg_rss23', 'avg_rss13', 'var_rss12', 'var_rss13', 'var_rss23']
+2021-09-12/16:25:54		Final Features after transformation: Index(['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23',
+       'var_rss23'],
+      dtype='object')
+2021-09-12/16:25:54		Training Successfull!!!
+2021-09-12/17:43:06		Start of Training!!!
+2021-09-12/17:43:06		map_target_variable method Started!!!
+2021-09-12/17:43:06		map_target_variable method Completed!!!
+2021-09-12/17:43:06		Mapped Variable: 4    7200
+6    7200
+7    7200
+5    7199
+3    7198
+1    3360
+2    2880
+Name: Label, dtype: int64
+2021-09-12/17:43:06		separate_label_features method Started
+2021-09-12/17:43:06		separate_label_features method Completed
+2021-09-12/17:43:06		imputeZeros method Started!!!
+2021-09-12/17:43:06		imputeZeros method Completed!!!
+2021-09-12/17:43:06		Missing Value Search Started
+2021-09-12/17:43:06		Missing Values Search Completed
+2021-09-12/17:43:06		dropVariables Started!!!
+2021-09-12/17:43:06		dropVariables Completed!!!
+2021-09-12/17:43:06		outlier_treatment Started!!!
+2021-09-12/17:43:06		outlier_treatment Completed!!!
+2021-09-12/17:43:06		separate_cat_num Started!!!
+2021-09-12/17:43:06		X columns: Index(['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23',
+       'var_rss23'],
+      dtype='object')
+2021-09-12/17:43:06		separate_cat_num Completed!!!
+2021-09-12/17:43:06		Categorical Variables: []
+2021-09-12/17:43:06		Numerical Variables: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23', 'var_rss23']
+2021-09-12/17:43:06		checkforMultiCollinearity Started!!!
+2021-09-12/17:43:06		checkforMultiCollinearity Completed!!!
+2021-09-12/17:43:06		High Multi-Collinear Variables: []
+2021-09-12/17:43:06		Low VIF Variables: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23', 'var_rss23']
+2021-09-12/17:43:09		Best Features: ['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23']
+2021-09-12/17:43:09		Final Features before transformation: ['var_rss23', 'avg_rss13', 'var_rss12', 'avg_rss23', 'avg_rss12', 'var_rss13']
+2021-09-12/17:43:09		Final Features after transformation: Index(['avg_rss12', 'var_rss12', 'avg_rss13', 'var_rss13', 'avg_rss23',
+       'var_rss23'],
+      dtype='object')
+2021-09-12/17:43:27		Training Successfull!!!
