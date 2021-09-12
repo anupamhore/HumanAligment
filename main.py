@@ -26,8 +26,8 @@ def trainRouteClient():
             path = request.json['filepath']
 
             # clean, merge the csv files
-            # train_val_obj = train_validation()
-            # train_val_obj.startValidation()
+             train_val_obj = train_validation()
+             train_val_obj.startValidation()
 
             # start training
             trainingModelObj = TrainModel()
